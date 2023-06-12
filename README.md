@@ -12,13 +12,25 @@ Key goals it wants accomplished as part of its solution:
 
 # Read
 
-· Browse theatres currently running the show (movie selected) in the town, including show timing by a chosen date ·
-Booking platform offers in selected cities and theatres • 50% discount on the third ticket • Tickets booked for the
-afternoon show get a 20% discount
+· Browse theatres currently running the show (movie selected) in the town, including show timing by a chosen date · 
+Booking platform offers in selected cities and theatres 
+• 50% discount on the third ticket 
+• Tickets booked for the afternoon show get a 20% discount
+
+Candidate Solution:
+•	 Implemented the scenario - Browse theatres currently running the show (movie selected) in the town, including show timing by a chosen date as a rest API , using in memory data.
+·	Created the basic structure for second scenario
+
 
 # Write
 
-· Book movie tickets by selecting a theatre, timing, and preferred seats for the day · Theatres can create, update, and
-delete shows for the day. · Bulk booking and cancellation · Theatres can allocate seat inventory and update them for the
-show
+· Book movie tickets by selecting a theatre, timing, and preferred seats for the day 
+· Theatres can create, update, and delete shows for the day. 
+· Bulk booking and cancellation 
+· Theatres can allocate seat inventory and update them for the show
+
+Candidate Solution:
+•	Implemented API solutions for 2nd and 4th use-case, using in memory data.
+.   Created skeleton design for scenario 3rd and 4th
+
 

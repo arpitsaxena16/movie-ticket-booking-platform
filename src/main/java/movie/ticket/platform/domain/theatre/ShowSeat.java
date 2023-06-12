@@ -1,7 +1,6 @@
 package movie.ticket.platform.domain.theatre;
 
 import lombok.Builder;
-import lombok.Data;
 import lombok.Getter;
 import movie.ticket.platform.domain.type.SeatCategory;
 
