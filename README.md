@@ -33,4 +33,8 @@ Candidate Solution:
 •	Implemented API solutions for 2nd and 4th use-case, using in memory data.
 .   Created skeleton design for scenario 3rd and 4th
 
+# Architecture Diagram
+
+https://github.com/arpitsaxena16/movie-ticket-booking-platform/blob/main/Movie_Ticket_Platform.png
+
 
